@@ -6,4 +6,5 @@ DOCKER COPY PATH :
 
 Dockerfile:
 
-===> Copy pet_shop/target/*.war /usr/local/tomcat/webapps/dinesh.war
+===>  From tomcat
+===>  Copy pet_shop/target/*.war /usr/local/tomcat/webapps/dinesh.war
