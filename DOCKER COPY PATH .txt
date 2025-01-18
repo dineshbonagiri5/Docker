@@ -1,0 +1,9 @@
+DOCKER COPY PATH :
+ 
+===> docker cp onlinebookstore/target/*.war cont2:/usr/local/tomcat/webapps/app.war
+
+
+
+Dockerfile:
+
+===> Copy pet_shop/target/*.war /usr/local/tomcat/webapps/dinesh.war
